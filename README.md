@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <title>Andesora</title>
-    </head>
+    </head>   
     <body>
 
  <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif"></img>
